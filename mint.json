@@ -52,19 +52,19 @@
     {
       "group": "Get Started",
       "pages": [
-        "introduction",
-        "quickstart",
-        "development"
+        "/docs/introduction",
+        "/docs/quickstart",
+        "/docs/development"
       ]
     },
     {
       "group": "Essentials",
       "pages": [
-        "essentials/markdown",
-        "essentials/code",
-        "essentials/images",
-        "essentials/settings",
-        "essentials/navigation"
+        "/docs/essentials/markdown",
+        "/docs/essentials/code",
+        "/docs/essentials/images",
+        "/docs/essentials/settings",
+        "/docs/essentials/navigation"
       ]
     },
     {
@@ -86,5 +86,11 @@
     "twitter": "https://twitter.com/mintlify",
     "github": "https://github.com/mintlify",
     "linkedin": "https://www.linkedin.com/company/mintsearch"
-  }
+  },
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "/docs"
+    }
+  ]
 }
