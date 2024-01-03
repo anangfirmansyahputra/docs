@@ -89,8 +89,8 @@
   },
   "redirects": [
     {
-      "source": "/docs",
-      "destination": "/docs/introduction"
+      "source": "docs",
+      "destination": "docs/introduction"
     }
   ]
 }
