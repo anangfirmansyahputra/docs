@@ -86,11 +86,5 @@
     "twitter": "https://twitter.com/mintlify",
     "github": "https://github.com/mintlify",
     "linkedin": "https://www.linkedin.com/company/mintsearch"
-  },
-  "redirects": [
-    {
-      "source": "docs",
-      "destination": "docs/introduction"
-    }
-  ]
+  }
 }
