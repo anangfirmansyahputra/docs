@@ -23,12 +23,12 @@
   ],
   "topbarCtaButton": {
     "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
+    "url": "https://coldsire.com/dashboard"
   },
   "tabs": [
     {
       "name": "API Reference",
-      "url": "api-reference"
+      "url": "docs/api-reference"
     }
   ],
   "anchors": [
