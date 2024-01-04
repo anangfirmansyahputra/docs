@@ -28,7 +28,7 @@
   "tabs": [
     {
       "name": "API Reference",
-      "url": "docs/api-reference"
+      "url": "api-reference"
     }
   ],
   "anchors": [
@@ -52,33 +52,33 @@
     {
       "group": "Get Started",
       "pages": [
-        "docs/introduction",
-        "docs/quickstart",
-        "docs/development"
+        "introduction",
+        "quickstart",
+        "development"
       ]
     },
     {
       "group": "Essentials",
       "pages": [
-        "docs/essentials/markdown",
-        "docs/essentials/code",
-        "docs/essentials/images",
-        "docs/essentials/settings",
-        "docs/essentials/navigation"
+        "essentials/markdown",
+        "essentials/code",
+        "essentials/images",
+        "essentials/settings",
+        "essentials/navigation"
       ]
     },
     {
       "group": "API Documentation",
       "pages": [
-        "docs/api-reference/introduction"
+        "api-reference/introduction"
       ]
     },
     {
       "group": "Endpoint Examples",
       "pages": [
-        "docs/api-reference/endpoint/get",
-        "docs/api-reference/endpoint/create",
-        "docs/api-reference/endpoint/delete"
+        "api-reference/endpoint/get",
+        "api-reference/endpoint/create",
+        "api-reference/endpoint/delete"
       ]
     }
   ],
