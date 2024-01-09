@@ -28,7 +28,7 @@
   "tabs": [
     {
       "name": "API Reference",
-      "url": "api-reference"
+      "url": "docs/api-reference"
     }
   ],
   "anchors": [
@@ -52,9 +52,9 @@
     {
       "group": "Get Started",
       "pages": [
-        "introduction",
-        "quickstart",
-        "development"
+        "docs/introduction",
+        "docs/quickstart",
+        "docs/development"
       ]
     },
     {
