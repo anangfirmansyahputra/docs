@@ -52,9 +52,9 @@
     {
       "group": "Get Started",
       "pages": [
-        "docs/introduction",
-        "docs/quickstart",
-        "docs/development"
+        "introduction",
+        "quickstart",
+        "development"
       ]
     },
     {
