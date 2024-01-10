@@ -27,16 +27,12 @@
   },
   "tabs": [
     {
-      "name": "Documentation",
-      "url": "docs/documentation"
-    },
-    {
       "name": "API Reference",
       "url": "docs/api-reference"
     }
   ],
   "primaryTab": {
-    "name": "Coldsire"
+    "name": "Documentation"
   },
   "anchors": [
     {
@@ -59,19 +55,19 @@
     {
       "group": "Get Started",
       "pages": [
-        "docs/documentation/introduction",
-        "docs/documentation/quickstart",
-        "docs/documentation/development"
+        "docs/introduction",
+        "docs/quickstart",
+        "docs/development"
       ]
     },
     {
       "group": "Essentials",
       "pages": [
-        "docs/documentation/essentials/markdown",
-        "docs/documentation/essentials/code",
-        "docs/documentation/essentials/images",
-        "docs/documentation/essentials/settings",
-        "docs/documentation/essentials/navigation"
+        "docs/essentials/markdown",
+        "docs/essentials/code",
+        "docs/essentials/images",
+        "docs/essentials/settings",
+        "docs/essentials/navigation"
       ]
     },
     {
