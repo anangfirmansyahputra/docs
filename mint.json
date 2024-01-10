@@ -27,10 +27,17 @@
   },
   "tabs": [
     {
+      "name": "Documentation",
+      "url": "docs/documentation"
+    },
+    {
       "name": "API Reference",
       "url": "docs/api-reference"
     }
   ],
+  "primaryTab": {
+    "name": "Documentation"
+  },
   "anchors": [
     {
       "name": "Documentation",
@@ -52,19 +59,19 @@
     {
       "group": "Get Started",
       "pages": [
-        "docs/introduction",
-        "docs/quickstart",
-        "docs/development"
+        "docs/documentation/introduction",
+        "docs/documentation/quickstart",
+        "docs/documentation/development"
       ]
     },
     {
       "group": "Essentials",
       "pages": [
-        "docs/essentials/markdown",
-        "docs/essentials/code",
-        "docs/essentials/images",
-        "docs/essentials/settings",
-        "docs/essentials/navigation"
+        "docs/documentation/essentials/markdown",
+        "docs/documentation/essentials/code",
+        "docs/documentation/essentials/images",
+        "docs/documentation/essentials/settings",
+        "docs/documentation/essentials/navigation"
       ]
     },
     {
