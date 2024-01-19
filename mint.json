@@ -7,14 +7,19 @@
   },
   "favicon": "/favicon.svg",
   "colors": {
-    "primary": "#0D9373",
-    "light": "#07C983",
-    "dark": "#0D9373",
+    "primary": "#DB7E25",
+    "light": "#DB7E25",
+    "dark": "#000",
     "anchors": {
-      "from": "#0D9373",
-      "to": "#07C983"
+      "from": "#1B676C",
+      "to": "#DB7E25"
+    },
+    "background": {
+      "dark": "#000",
+      "light": "#fff"
     }
   },
+  "backgroundImage": "/images/bg.png",
   "topbarLinks": [
     {
       "name": "Support",
