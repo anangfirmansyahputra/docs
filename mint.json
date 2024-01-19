@@ -19,6 +19,10 @@
       "light": "#fff"
     }
   },
+  "modeToggle": {
+    "default": "light",
+    "isHidden": false
+  },
   "backgroundImage": "/images/bg.png",
   "topbarLinks": [
     {
