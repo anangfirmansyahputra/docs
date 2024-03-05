@@ -39,11 +39,12 @@
     {
       "name": "API Reference",
       "url": "docs/api-reference"
+    },
+    {
+      "name": "Documentation",
+      "url": "docs"
     }
   ],
-  "primaryTab": {
-    "name": "Documentation"
-  },
   "anchors": [
     {
       "name": "Documentation",
